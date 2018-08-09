@@ -11,3 +11,7 @@ var lowercase = ‘hello!’
 lowercase.toLowerCase() === lowercase
 //true
 
+mixedCase.toLowerCase() === mixedCase
+//false
+
+mixedCase.toUpperCase() === mixedCase //false
