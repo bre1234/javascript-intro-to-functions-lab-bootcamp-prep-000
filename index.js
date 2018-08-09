@@ -10,3 +10,4 @@ var lowercase = ‘hello!’
 
 lowercase.toLowerCase() === lowercase
 //true
+
